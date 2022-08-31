@@ -1,0 +1,7 @@
+cd_recurso/
+teste_gui/
+src/__pycache__/
+final_image.png
+*.txt
+logs/
+final_image_cd_recurso.png
